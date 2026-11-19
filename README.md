@@ -48,3 +48,14 @@ KavenOn/
 ## Przechowywanie danych
 
 Zadania są zapisywane lokalnie w przeglądarce użytkownika. Wyczyszczenie danych witryny lub użycie innej przeglądarki może usunąć albo ukryć zapisane zadania.
+
+## Status projektu
+
+Projekt KavenOn jest aplikacją internetową do zarządzania zadaniami.
+
+Aktualnie dostępne funkcjonalności:
+- Dodawanie nowych zadań.
+- Edytowanie i usuwanie zadań.
+- Zmiana statusu i priorytetu.
+- Wyszukiwanie i filtrowanie.
+- Zapisywanie danych w LocalStorage.
